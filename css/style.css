@@ -1,0 +1,16 @@
+
+img {
+    width: 23%;
+    height: auto;    
+    margin: 10px; 
+}
+img:hover {
+    filter: brightness(125%);
+}
+.flex-container {
+    display: flex;  
+    background-color: burlywood;
+    flex-wrap: wrap;            
+    justify-content: space-around;
+
+}
